@@ -1,4 +1,15 @@
-# FranTV-Argentina-
+# FranTV Argentina
+<p align="center">
+  <img src="https://files.catbox.moe/oevia6.png" alt="FranTV PREMIUM" width="150"/>
+</p>
+
+<h1 align="center">FranTV PREMIUM</h1>
+
+<p align="center">
+  Tu IPTV personalizada, sin canales muertos, sin relleno.<br>
+  100% hecha en Argentina, con amor y chipa
+</p>
+
 Canales de Buenos Aires, Funcional Y Simple 
 
 Lista M3U: https://gist.githubusercontent.com/Fransito-Dev/005c6703f41f50b4fda00f7c94d5e207/raw
