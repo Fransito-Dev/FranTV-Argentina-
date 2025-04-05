@@ -1,6 +1,6 @@
 # FranTV Argentina
 <p align="center">
-  <img src="https://files.catbox.moe/oevia6.png" alt="FranTV PREMIUM" width="150"/>
+  <img src="https://files.catbox.moe/1h7srz.png" alt="FranTV PREMIUM" width="150"/>
 </p>
 
 
