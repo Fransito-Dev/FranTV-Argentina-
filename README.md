@@ -3,7 +3,7 @@
   <img src="https://files.catbox.moe/oevia6.png" alt="FranTV PREMIUM" width="150"/>
 </p>
 
-<h1 align="center">FranTV PREMIUM</h1>
+
 
 <p align="center">
   Tu IPTV personalizada, sin canales muertos, sin relleno.<br>
