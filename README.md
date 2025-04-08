@@ -87,3 +87,11 @@ FranTV – Grilla de Canales (2025)
 
 
 23. Canal E – Economía / Negocios
+
+
+ey, llegaste
+
+fran tv 2: https://gist.github.com/Fransito-Dev/9f983d2d51a00087d98f72d396ddc98e/raw
+
+
+detalles:https://gist.github.com/Fransito-Dev/9f983d2d51a00087d98f72d396ddc98e
